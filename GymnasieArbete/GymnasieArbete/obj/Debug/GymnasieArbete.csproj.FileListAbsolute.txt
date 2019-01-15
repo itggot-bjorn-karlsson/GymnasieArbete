@@ -1,0 +1,10 @@
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\bin\Debug\GymnasieArbete.exe.config
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\bin\Debug\GymnasieArbete.exe
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\bin\Debug\GymnasieArbete.pdb
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.csprojAssemblyReference.cache
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.Form1.resources
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.Properties.Resources.resources
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.csproj.GenerateResource.cache
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.csproj.CoreCompileInputs.cache
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.exe
+C:\Users\Björn\source\repos\GymnasieArbete\GymnasieArbete\obj\Debug\GymnasieArbete.pdb
